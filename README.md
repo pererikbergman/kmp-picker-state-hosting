@@ -4,7 +4,7 @@ Welcome to the repository for the **Color Picker App** built with **Jetpack Comp
 
 ## **Video Tutorial Overview**
 
-In the accompanying [YouTube video](http://youtube.com), we will walk through:
+In the accompanying [YouTube video](https://youtu.be/eCgNhCFMpQA), we will walk through:
 
 1. **Understanding state hoisting** and its benefits.
 2. **Setting up the project** and adding necessary dependencies.
